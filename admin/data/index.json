@@ -1,0 +1,23 @@
+{
+  "modulesUserName": "HackYourFutureBelgium",
+  "repoUserName": "HackYourFutureBelgium",
+  "repoName": "class-13-14",
+  "boards": [
+    {
+      "name": "projects",
+      "number": 1
+    },
+    {
+      "name": "side-projects",
+      "number": 2
+    },
+    {
+      "name": "javascript",
+      "number": 12
+    },
+    {
+      "name": "snippets",
+      "number": 13
+    }
+  ]
+}
