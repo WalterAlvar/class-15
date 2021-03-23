@@ -1,106 +1,25 @@
 [
-  {
-    "name": "Aleksandra",
-    "userName": "aleks2407"
-  },
-  {
-    "name": "Alina",
-    "userName": "alinamarasca"
-  },
-  {
-    "name": "Emely",
-    "userName": "emelysalmeron"
-  },
-  {
-    "name": "Erkam",
-    "userName": "erkamguresen"
-  },
-  {
-    "name": "Fatih",
-    "userName": "Fatihayoz"
-  },
-  {
-    "name": "Furkan",
-    "userName": "kilicf"
-  },
-  {
-    "name": "Gustavo",
-    "userName": "gustavoaespitia"
-  },
-  {
-    "name": "Inggrit",
-    "userName": "inggritenovaleta"
-  },
-  {
-    "name": "Irina",
-    "userName": "IrinaSing"
-  },
-  {
-    "name": "Joexy",
-    "userName": "Joexy1990"
-  },
-  {
-    "name": "Lo",
-    "userName": "Cyngyz"
-  },
-  {
-    "name": "Mayuri",
-    "userName": "mayuri2510"
-  },
-  {
-    "name": "Michael",
-    "userName": "Mika215"
-  },
-  {
-    "name": "Mohammad",
-    "userName": "radwan-m"
-  },
-  {
-    "name": "Nasratullah",
-    "userName": "NasratullahHussaini"
-  },
-  {
-    "name": "Oksana",
-    "userName": "OksanaShulha"
-  },
-  {
-    "name": "Rafael",
-    "userName": "rago89"
-  },
-  {
-    "name": "Reinaldo",
-    "userName": "perezrei"
-  },
-  {
-    "name": "Samuel",
-    "userName": "Enakhimionsam"
-  },
-  {
-    "name": "Selim",
-    "userName": "selimensar"
-  },
-  {
-    "name": "Sheyla",
-    "userName": "sheybusta"
-  },
-  {
-    "name": "Viktoriia",
-    "userName": "victoriayerm"
-  },
-  {
-    "name": "Zara",
-    "userName": "zaraana"
-  },
-  {
-    "name": "Zehra",
-    "userName": "zehrayelkenci"
-  },
-  {
-    "name": "Zenat",
-    "userName": "ZM102"
-  },
-  {
-    "name": "ŞABAN",
-    "userName": "sabanyelkenci"
-  }
+  { "name": "Ali", "userName": "AliAbouteir" },
+  { "name": "Áxil", "userName": "bringmetheaxx" },
+  { "name": "Daniel", "userName": "danielhalasz" },
+  { "name": "Deepa", "userName": "deepa-thomas" },
+  { "name": "Ekaterina", "userName": "katsmamina" },
+  { "name": "Firewyni", "userName": "firity" },
+  { "name": "Hajir", "userName": "Hajir-pro" },
+  { "name": "Hasan", "userName": "hserdogan94" },
+  { "name": "José", "userName": "JTLiberona" },
+  { "name": "Katsiaryna", "userName": "Dabrytskaya" },
+  { "name": "Laura", "userName": "lauraramirez220612" },
+  { "name": "Maria", "userName": "Maria2811-code" },
+  { "name": "Moamin", "userName": "Moamin-AbuEwaida" },
+  { "name": "Francis", "userName": "Osimef849" },
+  { "name": "Oswaldo", "userName": "ORodriguez-1201" },
+  { "name": "Rayane", "userName": "rayanejsilva" },
+  { "name": "Rosa", "userName": "RosaMoran" },
+  { "name": "Senait", "userName": "Senait-coding" },
+  { "name": "Serkan", "userName": "SerkanDemir86" },
+  { "name": "Tatsiana", "userName": "TatsianaRud" },
+  { "name": "Tugba", "userName": "yildiztugba" },
+  { "name": "Walter", "userName": "WalterAlvar" },
+  { "name": "Wadid", "userName": "wadiawadia" }
 ]
