@@ -1,4 +1,4 @@
-## Hi there, this is Daniel 👋
+# Hi there, this is Daniel 👋
 
 ![portrait](https://avatars.githubusercontent.com/u/78535490?s=260&u=53b460785849f79991f1267e92d4c7460f7208ac&v=4)
 
