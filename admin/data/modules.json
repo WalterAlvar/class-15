@@ -31,7 +31,9 @@
   {
     "milestone": 4,
     "repoName": "welcome-to-js",
-    "weeks": 2
+    "weeks": 2,
+    "projects": false,
+    "board": "vocabulary"
   },
   {
     "milestone": 5,

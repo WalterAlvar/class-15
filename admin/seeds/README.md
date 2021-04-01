@@ -13,6 +13,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 - Study Stuff
   - [Chill Zone](./chill-zone)
   - [Shared Notes](./shared-notes)
+  - [Vocabulary](./vocabulary)
   - [JavaScript](./javascript)
   - [Snippets](./snippets)
 
