@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Here it is Hasan
-[image](foto.jpeg)
+![Hasan](https://avatars.githubusercontent.com/u/78881314?s=400&u=3d0e09c4a7e7e6fd547d3282f395cc61315f8cc1&v=4)
 - I’m living in Liége.
 - I’m currently learning HTML,CSS and JavaScript. I am student at Hack Your Future BE.
 - I am gratuated from Istanbul Technical University. I have bachelors degree on Aerospace Engineering and I have commercial pilot licence. 
