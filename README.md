@@ -364,17 +364,6 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./admin/avatars/students/SerkanDemir86.jpeg' height="150px" width="150px" alt='SerkanDemir86 avatar' /></td>
-  <td> <h3 display="inline">Serkan</h3>
-    <ul>
-       <li>about: <a href="./student-bios/SerkanDemir86.md" target="_blank">bio</a>,      <a href="https://SerkanDemir86.github.io">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/class-15/projects/1?card_filter_query=assignee%3ASerkanDemir86">projects</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+author%3ASerkanDemir86+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+commenter%3ASerkanDemir86+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=author%3ASerkanDemir86">authored</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=assignee%3ASerkanDemir86+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=commenter%3ASerkanDemir86">commented</a></li>
-        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=author%3ASerkanDemir86">opened</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=reviewed-by%3ASerkanDemir86+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=commenter%3ASerkanDemir86">commented</a></li>
-        <li>github: <a href="https://github.com/SerkanDemir86">SerkanDemir86</a></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
   <td><img src='./admin/avatars/students/TatsianaRud.jpeg' height="150px" width="150px" alt='TatsianaRud avatar' /></td>
   <td> <h3 display="inline">Tatsiana</h3>
     <ul>
