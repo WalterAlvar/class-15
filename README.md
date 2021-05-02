@@ -320,17 +320,6 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./admin/avatars/students/ORodriguez-1201.jpeg' height="150px" width="150px" alt='ORodriguez-1201 avatar' /></td>
-  <td> <h3 display="inline">Oswaldo</h3>
-    <ul>
-       <li>about: <a href="./student-bios/ORodriguez-1201.md" target="_blank">bio</a>,      <a href="https://ORodriguez-1201.github.io">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/class-15/projects/1?card_filter_query=assignee%3AORodriguez-1201">projects</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+author%3AORodriguez-1201+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+commenter%3AORodriguez-1201+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=author%3AORodriguez-1201">authored</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=assignee%3AORodriguez-1201+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=commenter%3AORodriguez-1201">commented</a></li>
-        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=author%3AORodriguez-1201">opened</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=reviewed-by%3AORodriguez-1201+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=commenter%3AORodriguez-1201">commented</a></li>
-        <li>github: <a href="https://github.com/ORodriguez-1201">ORodriguez-1201</a></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
   <td><img src='./admin/avatars/students/rayanejsilva.jpeg' height="150px" width="150px" alt='rayanejsilva avatar' /></td>
   <td> <h3 display="inline">Rayane</h3>
     <ul>
