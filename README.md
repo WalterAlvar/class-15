@@ -387,7 +387,7 @@ The more you participate and become part of the HYF community, the more people a
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/wadiawadia.jpeg' height="150px" width="150px" alt='wadiawadia avatar' /></td>
-  <td> <h3 display="inline">Wadid</h3>
+  <td> <h3 display="inline">Widad</h3>
     <ul>
        <li>about: <a href="./student-bios/wadiawadia.md" target="_blank">bio</a>,      <a href="https://wadiawadia.github.io">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/class-15/projects/1?card_filter_query=assignee%3Awadiawadia">projects</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+author%3Awadiawadia+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+commenter%3Awadiawadia+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=author%3Awadiawadia">authored</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=assignee%3Awadiawadia+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=commenter%3Awadiawadia">commented</a></li>
