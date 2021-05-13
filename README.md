@@ -298,6 +298,17 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
+  <td><img src='./admin/avatars/students/Mika215.jpeg' height="150px" width="150px" alt='Mika215 avatar' /></td>
+  <td> <h3 display="inline">Michael</h3>
+    <ul>
+       <li>about: <a href="./student-bios/Mika215.md" target="_blank">bio</a>,      <a href="https://Mika215.github.io">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/class-15/projects/1?card_filter_query=assignee%3AMika215">projects</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+author%3AMika215+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+commenter%3AMika215+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=author%3AMika215">authored</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=assignee%3AMika215+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=commenter%3AMika215">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=author%3AMika215">opened</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=reviewed-by%3AMika215+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=commenter%3AMika215">commented</a></li>
+        <li>github: <a href="https://github.com/Mika215">Mika215</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./admin/avatars/students/Moamin-AbuEwaida.jpeg' height="150px" width="150px" alt='Moamin-AbuEwaida avatar' /></td>
   <td> <h3 display="inline">Moamin</h3>
     <ul>
@@ -338,6 +349,17 @@ The more you participate and become part of the HYF community, the more people a
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=author%3ARosaMoran">authored</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=assignee%3ARosaMoran+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=commenter%3ARosaMoran">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=author%3ARosaMoran">opened</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=reviewed-by%3ARosaMoran+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=commenter%3ARosaMoran">commented</a></li>
         <li>github: <a href="https://github.com/RosaMoran">RosaMoran</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/selimensar.jpeg' height="150px" width="150px" alt='selimensar avatar' /></td>
+  <td> <h3 display="inline">Selim</h3>
+    <ul>
+       <li>about: <a href="./student-bios/selimensar.md" target="_blank">bio</a>,      <a href="https://selimensar.github.io">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/class-15/projects/1?card_filter_query=assignee%3Aselimensar">projects</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+author%3Aselimensar+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+commenter%3Aselimensar+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=author%3Aselimensar">authored</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=assignee%3Aselimensar+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=commenter%3Aselimensar">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=author%3Aselimensar">opened</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=reviewed-by%3Aselimensar+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=commenter%3Aselimensar">commented</a></li>
+        <li>github: <a href="https://github.com/selimensar">selimensar</a></li>
     </ul>
   </td>
 </tr></table> </li>
