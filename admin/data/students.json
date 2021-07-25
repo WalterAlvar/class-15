@@ -1,9 +1,14 @@
 [
   { "name": "Ali", "userName": "AliAbouteir" },
-  { "name": "Áxil", "userName": "bringmetheaxx", "homePage": "https://bringmetheaxx.com/" },
+  {
+    "name": "Áxil",
+    "userName": "bringmetheaxx",
+    "homePage": "https://bringmetheaxx.com/"
+  },
   { "name": "Daniel", "userName": "danielhalasz" },
   { "name": "Deepa", "userName": "deepa-thomas" },
   { "name": "Ekaterina", "userName": "katsmamina" },
+  { "name": "Emely", "userName": "emelysalmeron" },
   { "name": "Firewyni", "userName": "firity" },
   { "name": "Hajir", "userName": "Hajir-pro" },
   { "name": "Hasan", "userName": "hserdogan94" },
