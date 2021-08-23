@@ -53,15 +53,9 @@
     "board": "projects"
   },
   {
-    "milestone": 8,
-    "repoName": "state",
-    "weeks": 2,
-    "board": "projects"
-  },
-  {
-    "milestone": 9,
-    "repoName": "single-page-apps",
-    "weeks": 2,
+    "milestone": 14,
+    "repoName": "architecture",
+    "weeks": 4,
     "board": "projects"
   },
   {
