@@ -35,6 +35,9 @@ Don't worry, it's not as intimidating as it looks and we're all here to help eac
   - This can help you get started with Git & GitHub, but does not replace learning to use your CLI
   - [Mac](https://desktop.github.com/)
   - [Linux](https://github.com/shiftkey/desktop#debianubuntu-distributions)
+- If you use Windows:
+  - [setup a Linux SubSystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+  - [Learn to open VSCode with your SubSystem](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode)
 
 ---
 

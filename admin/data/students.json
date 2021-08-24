@@ -1,9 +1,13 @@
 [
-  { "name": "Ali", "userName": "AliAbouteir" },
-  { "name": "Áxil", "userName": "bringmetheaxx" },
+  {
+    "name": "Áxil",
+    "userName": "bringmetheaxx",
+    "homePage": "https://bringmetheaxx.com/"
+  },
   { "name": "Daniel", "userName": "danielhalasz" },
   { "name": "Deepa", "userName": "deepa-thomas" },
   { "name": "Ekaterina", "userName": "katsmamina" },
+  { "name": "Emely", "userName": "emelysalmeron" },
   { "name": "Firewyni", "userName": "firity" },
   { "name": "Hajir", "userName": "Hajir-pro" },
   { "name": "Hasan", "userName": "hserdogan94" },
@@ -11,15 +15,16 @@
   { "name": "Katsiaryna", "userName": "Dabrytskaya" },
   { "name": "Laura", "userName": "lauraramirez220612" },
   { "name": "Maria", "userName": "Maria2811-code" },
+  { "name": "Michael", "userName": "Mika215" },
   { "name": "Moamin", "userName": "Moamin-AbuEwaida" },
   { "name": "Francis", "userName": "Osimef849" },
-  { "name": "Oswaldo", "userName": "ORodriguez-1201" },
   { "name": "Rayane", "userName": "rayanejsilva" },
+  { "name": "Reinaldo", "userName": "perezrei" },
   { "name": "Rosa", "userName": "RosaMoran" },
+  { "name": "Selim", "userName": "selimensar" },
   { "name": "Senait", "userName": "Senait-coding" },
-  { "name": "Serkan", "userName": "SerkanDemir86" },
   { "name": "Tatsiana", "userName": "TatsianaRud" },
   { "name": "Tugba", "userName": "yildiztugba" },
   { "name": "Walter", "userName": "WalterAlvar" },
-  { "name": "Wadid", "userName": "wadiawadia" }
+  { "name": "Widad", "userName": "wadiawadia" }
 ]

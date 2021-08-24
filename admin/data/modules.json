@@ -25,29 +25,26 @@
   {
     "milestone": 3,
     "repoName": "ux-ui-design",
-    "weeks": 1,
+    "weeks": 2,
     "board": "projects"
   },
   {
     "milestone": 4,
     "repoName": "welcome-to-js",
     "weeks": 2,
-    "projects": false,
     "board": "vocabulary"
   },
   {
     "milestone": 5,
     "repoName": "debugging",
     "weeks": 4,
-    "projects": false,
     "board": "javascript"
   },
   {
     "milestone": 6,
     "repoName": "behavior-strategy-implementation",
     "weeks": 3,
-    "projects": false,
-    "board": "snippets"
+    "board": ["snippets", "projects"]
   },
   {
     "milestone": 7,
@@ -56,15 +53,9 @@
     "board": "projects"
   },
   {
-    "milestone": 8,
-    "repoName": "state",
-    "weeks": 2,
-    "board": "projects"
-  },
-  {
-    "milestone": 9,
-    "repoName": "single-page-apps",
-    "weeks": 2,
+    "milestone": 14,
+    "repoName": "architecture",
+    "weeks": 4,
     "board": "projects"
   },
   {
@@ -86,8 +77,9 @@
     "board": "projects"
   },
   {
-    "milestone": 14,
-    "repoName": "agile-development",
+    "milestone": 13,
+    "repoName": "final-project",
+    "url": "https://home.hackyourfuture.be/curriculum/final-project",
     "weeks": 6,
     "board": "projects"
   }
